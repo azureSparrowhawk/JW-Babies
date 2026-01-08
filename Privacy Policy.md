@@ -2,7 +2,7 @@ Last updated: 2025‑01‑08
 
             Who we are
             JW Babies (“we”, “us”, “our”) is a family-friendly mobile app that helps young children listen more attentively by giving them specific words to look out for.
-            Contact: help.jwbabies@yahoo.com
+            Contact: help.jwbabies@gmail.com
             Owner: Jasper Ohue, England
 
             Data we collect
@@ -20,7 +20,7 @@ Last updated: 2025‑01‑08
             • The app may include third-party/open-source components (for example, UI or animation libraries). These components are used locally within the app and do not collect personal information. See the Licenses section in Settings for details.
 
             Security
-            • Because we do not collect or store personal data on our servers, our exposure is limited. We rely on the security features of iOS/iPadOS. No method of software operation is 100% secure.
+            • Because we do not collect or store personal data on our servers, our exposure is limited. We rely on the security features of iOS/Android OS. No method of software operation is 100% secure.
 
             Children’s privacy
             • JW Babies is designed for families and children. We do not knowingly collect personal information from children. If you believe a child has provided personal information to us, please contact us and we will address it promptly.
@@ -29,7 +29,7 @@ Last updated: 2025‑01‑08
             • We do not transfer personal data internationally because we do not collect it.
 
             Your rights
-            • If you have questions about privacy or this policy, contact us at jasper.ohue@icloud.com.
+            • If you have questions about privacy or this policy, contact us at help.jwbabies@gmail.com
 
             Changes to this policy
             • We may update this Privacy Policy to reflect changes to the app or legal requirements. We will update the “Last updated” date in the app. Material changes will be communicated in-app where appropriate.
